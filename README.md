@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksdesilva&label=Profile%20views&color=0e75b6&style=flat" alt="sksdesilva" /> </p>
 
-- 🔭 I’m currently working on [TradeHub](#https://github.com/sksdesilva/TradeHub)
+- 🔭 I’m currently working on [TradeHub](https://github.com/sksdesilva/TradeHub)
 
 - 🌱 I’m currently learning **mern stack**
 
